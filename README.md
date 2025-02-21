@@ -16,3 +16,12 @@ function hello(z) {
 
 *** EXECUTION CONTEXTS 
 `Wraper to help manage the code that is running. It contains what you have written and things beyond your code`
+
+*** OBECTS
+`There ara a collection of name value pairs`
+
+*** GLOBAL ENVIRONEMNENT AND GLOBAL OBJECT
+
+**GLOBAL EXECUTION CONTEXT
+` creates a global object and special variable called THIS`
+`They are created by the Javascript engine`
